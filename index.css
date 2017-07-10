@@ -31,7 +31,7 @@ body {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
   margin: 0;
   padding: 0;
-  font-size: 18px;
+  font-size: 16px;
 }
 h1 {
   font-size: 72px;
@@ -369,7 +369,7 @@ header a:active {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   transform: translate(0, 0);
-  content: "\f1c1";
+  content: "\f09e";
   width: 28px;
   margin-left: -28px;
   display: inline-block;
@@ -484,7 +484,7 @@ section {
   background-color: #333;
   border-radius: 6px;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.33;
   overflow-y: hidden;
   zoom: 1;
